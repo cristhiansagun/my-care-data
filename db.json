@@ -1,0 +1,125 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "dateOfBirth": "1980-01-01",
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+      },
+      "contact": {
+        "phone": "555-555-5555",
+        "email": "john.doe@example.com"
+      },
+      "medicalHistory": {
+        "allergies": ["Penicillin"],
+        "medications": ["Aspirin"],
+        "pastProcedures": ["Appendectomy (2010)"]
+      },
+      "insurance": {
+        "provider": "Blue Cross Blue Shield",
+        "policyNumber": "1234567890"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "dateOfBirth": "1975-07-15",
+      "address": {
+        "street": "456 Elm St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+      },
+      "contact": {
+        "phone": "555-555-1212",
+        "email": "jane.smith@example.com"
+      },
+      "medicalHistory": {
+        "allergies": ["None"],
+        "medications": [],
+        "pastProcedures": []
+      },
+      "insurance": {
+        "provider": "Cigna",
+        "policyNumber": "9876543210"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Michael Lee",
+      "dateOfBirth": "1990-03-22",
+      "address": {
+        "street": "789 Maple Ave",
+        "city": "Metropolis",
+        "state": "NY",
+        "zip": "54321"
+      },
+      "contact": {
+        "phone": "555-123-4567",
+        "email": "michael.lee@example.com"
+      },
+      "medicalHistory": {
+        "allergies": ["Peanuts"],
+        "medications": ["Zoloft"],
+        "pastProcedures": ["Tonsillectomy (2000)"]
+      },
+      "insurance": {
+        "provider": "Aetna",
+        "policyNumber": "0123456789"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Olivia Jones",
+      "dateOfBirth": "1960-11-09",
+      "address": {
+        "street": "987 Oak St",
+        "city": "Suburbia",
+        "state": "TX",
+        "zip": "78901"
+      },
+      "contact": {
+        "phone": "555-987-6543",
+        "email": "olivia.jones@example.com"
+      },
+      "medicalHistory": {
+        "allergies": ["Bee stings"],
+        "medications": ["Metformin"],
+        "pastProcedures": ["Knee replacement (2023)"]
+      },
+      "insurance": {
+        "provider": "UnitedHealthcare",
+        "policyNumber": "2345678901"
+      }
+    },
+    {
+      "id": 5,
+      "name": "David Jones",
+      "dateOfBirth": "1950-12-24",
+      "address": {
+        "street": "542 Pine St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+      },
+      "contact": {
+        "phone": "555-333-7890",
+        "email": "david.jones@example.com"
+      },
+      "medicalHistory": {
+        "allergies": ["Bee stings"],
+        "medications": ["Metformin"],
+        "pastProcedures": ["Knee replacement (2023)"]
+      },
+      "insurance": {
+        "provider": "UnitedHealthcare",
+        "policyNumber": "2345678901"
+      }
+    }
+  ]
+}
+
